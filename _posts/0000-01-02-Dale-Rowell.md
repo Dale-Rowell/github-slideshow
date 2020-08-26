@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The treaties must grant us everything
 Use the left arrow to go back!
